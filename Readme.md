@@ -1,34 +1,34 @@
 # 70 Days of leetcode
 
 ### Algorithm I
-- [ ] 704. Binary Search
 - [ ] 278. First Bad Version
-- [ ] 35. Search Insert Position
-- [ ] 977. Squares of a Sorted Array
-- [ ] 189. Rotate Array
-- [ ] 283. Move Zeroes
 - [ ] 167. Two Sum II - Input Array Is Sorted
-- [ ] 344. Reverse String
-- [ ] 557. Reverse Words in a String III
-- [ ] 876. Middle of the Linked List
-- [ ] 19. Remove Nth Node From End of List
-- [ ] 3. Longest Substring Without Repeating Characters
-- [ ] 567. Permutation in String
-- [ ] 733. Flood Fill
-- [ ] 695. Max Area of Island
-- [ ] 617. Merge Two Binary Trees
-- [ ] 116. Populating Next Right Pointers in Each Node
-- [ ] 542. 01 Matrix
-- [ ] 994. Rotting Oranges
-- [ ] 21. Merge Two Sorted Lists
-- [ ] 206. Reverse Linked List
-- [ ] 77. Combinations
-- [ ] 46. Permutations
-- [ ] 784. Letter Case Permutation
-- [ ] 70. Climbing Stairs
-- [ ] 198. House Robber
-- [ ] 120. Triangle
-- [ ] 231. Power of Two
-- [ ] 191. Number of 1 Bits
 - [ ] 190. Reverse Bits
 - [ ] 136. Single Number
+- [ ] 231. Power of Two
+- [ ] 567. Permutation in String
+- [ ] 206. Reverse Linked List
+- [ ] 876. Middle of the Linked List
+- [ ] 19. Remove Nth Node From End of List
+- [ ] 617. Merge Two Binary Trees
+- [ ] 70. Climbing Stairs
+- [ ] 557. Reverse Words in a String III
+- [ ] 120. Triangle
+- [ ] 784. Letter Case Permutation
+- [ ] 21. Merge Two Sorted Lists
+- [ ] 46. Permutations
+- [ ] 189. Rotate Array
+- [ ] 191. Number of 1 Bits
+- [ ] 704. Binary Search
+- [ ] 733. Flood Fill
+- [ ] 116. Populating Next Right Pointers in Each Node
+- [ ] 35. Search Insert Position
+- [ ] 3. Longest Substring Without Repeating Characters
+- [ ] 198. House Robber
+- [ ] 977. Squares of a Sorted Array
+- [ ] 695. Max Area of Island
+- [ ] 283. Move Zeroes
+- [ ] 994. Rotting Oranges
+- [ ] 542. 01 Matrix
+- [ ] 344. Reverse String
+- [ ] 77. Combinations

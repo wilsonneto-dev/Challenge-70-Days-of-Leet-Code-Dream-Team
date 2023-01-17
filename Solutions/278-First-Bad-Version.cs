@@ -1,3 +1,5 @@
+// solution 16/01/2023
+// space = O(1) / time = O(log N)
 
 public class Solution : VersionControl {
     public int FirstBadVersion(int n) {

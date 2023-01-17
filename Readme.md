@@ -2,7 +2,7 @@
 
 ### Algorithm I
 - [x] 278. First Bad Version
-- [ ] 167. Two Sum II - Input Array Is Sorted
+- [x] 167. Two Sum II - Input Array Is Sorted
 - [ ] 190. Reverse Bits
 - [ ] 136. Single Number
 - [ ] 231. Power of Two

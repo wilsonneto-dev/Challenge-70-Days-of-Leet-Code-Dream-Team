@@ -1,7 +1,7 @@
 # 70 Days of leetcode
 
 ### Algorithm I
-- [ ] 278. First Bad Version
+- [x] 278. First Bad Version
 - [ ] 167. Two Sum II - Input Array Is Sorted
 - [ ] 190. Reverse Bits
 - [ ] 136. Single Number

@@ -3,7 +3,7 @@
 ### Algorithm I
 - [x] ✅ 278. First Bad Version
 - [x] ✅ 167. Two Sum II - Input Array Is Sorted
-- [ ] 190. Reverse Bits
+- [x] ✅ 190. Reverse Bits
 - [ ] 136. Single Number
 - [ ] 231. Power of Two
 - [ ] 567. Permutation in String

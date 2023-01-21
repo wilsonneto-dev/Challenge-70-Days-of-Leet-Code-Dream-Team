@@ -6,7 +6,7 @@
 - [x] ✅ 190. Reverse Bits
 - [x] ✅ 136. Single Number
 - [x] ✅ 231. Power of Two
-- [ ] 567. Permutation in String
+- [ ] 🟧 (to review) 567. Permutation in String
 - [ ] 206. Reverse Linked List
 - [ ] 876. Middle of the Linked List
 - [ ] 19. Remove Nth Node From End of List

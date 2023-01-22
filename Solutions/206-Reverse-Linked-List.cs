@@ -1,3 +1,22 @@
+// 21/01/23
+// (after watching the solution) t= O(n) / s = O(1)
+public class Solution {
+    public ListNode ReverseList(ListNode head) {
+        ListNode previous = null;
+        while(head is not null)
+        {
+            var temp = head.next;
+            head.next = previous;
+            previous = head;
+            if(temp is null) break;
+            head = temp;
+        }
+        return head;
+    }
+}
+
+// ---------
+
 // 21/01/2023 (v1)
 // t = O(n) / s = O(n)
 

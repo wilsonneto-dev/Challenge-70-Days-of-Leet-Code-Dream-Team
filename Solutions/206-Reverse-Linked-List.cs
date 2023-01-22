@@ -15,6 +15,21 @@ public class Solution {
     }
 }
 
+// improved
+public class Solution {
+    public ListNode ReverseList(ListNode head) {
+        ListNode prev = null;
+        while(head is not null)
+        {
+            var next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
+    }
+}
+
 // ---------
 
 // 21/01/2023 (v1)

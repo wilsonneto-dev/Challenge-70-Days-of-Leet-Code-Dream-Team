@@ -1,10 +1,15 @@
-const f = (nums, target) => 
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number}
+ */
+const search = (nums, target) => 
 {
     let l = 0, r = nums.length - 1;
     if(nums[l] == target) return l;
     if(nums[r] == target) return r;
     
-    // find the lesser elemt in the array
+    // find the lesser elemet in the array
     let minimumIndex = l;
     if(nums[l] > nums[r])
     {
@@ -28,7 +33,7 @@ const f = (nums, target) =>
         }
     }
     
-    // fin the target
+    // find the target
     if(target > nums[nums.length -1])
     {
         r = minimumIndex -1;
@@ -52,38 +57,3 @@ const f = (nums, target) =>
 
     return -1;
 }
-
-const tests = [
-    {   
-        Input: [[4,5,6,7,0,1,2], 0],    
-        Output: 4       
-    },    
-    {   
-        Input: [[4,5,6,7,0,1,2], 5],    
-        Output: 1       
-    },    
-    {   
-        Input: [[4,5,6,7,0,1,2], 1],    
-        Output: 5    
-    },
-    {   
-        Input: [[4,5,6,7,0,1,2], 6],
-        Output: 2     
-    },
-    {   
-        Input: [[4,5,6,7,0,1,2], 17],
-        Output: -1
-    },
-    {   
-        Input: [[1], 0],    
-        Output: -1       
-    },
-]
-
-tests.forEach(({ Input, Output }) => {
-    const result = f(Input[0], Input[1]);
-    console.log(`${result == Output ? "✅" : "❌"} test: ${Input[0]} (target: ${Input[1]}) => ${result} (expected: ${Output})`);
-    steps = 0;
-});
-
-
